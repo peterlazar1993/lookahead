@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/4848554/117863950-ebcd7c00-b2b1-11eb-8
 
 In development lookahead component
 
-see search.dart
+see [lookahead.dart](https://github.com/peterlazar1993/lookahead/blob/main/lib/lookahead.dart)
 
 
 ### TODO:
